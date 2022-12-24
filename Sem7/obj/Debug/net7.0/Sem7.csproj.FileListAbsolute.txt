@@ -1,0 +1,15 @@
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\bin\Debug\net7.0\Sem7.exe
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\bin\Debug\net7.0\Sem7.deps.json
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\bin\Debug\net7.0\Sem7.runtimeconfig.json
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\bin\Debug\net7.0\Sem7.dll
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\bin\Debug\net7.0\Sem7.pdb
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.csproj.AssemblyReference.cache
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.AssemblyInfoInputs.cache
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.AssemblyInfo.cs
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.csproj.CoreCompileInputs.cache
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.dll
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\refint\Sem7.dll
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.pdb
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\Sem7.genruntimeconfig.cache
+E:\Обучение\Praktika\Seminar_Miron_Buharov\Еxample\Sem7\obj\Debug\net7.0\ref\Sem7.dll
