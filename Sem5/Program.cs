@@ -114,7 +114,7 @@ double[] FillArray(int n, int min, int max)
     for (int i = 0; i < array.Length; i++)
     {
 
-        array[i] = Math.Round(new Random().NextDouble() * (max - min) + min);  
+        array[i] = Math.Round(new Random().NextDouble() * (max - min) + min, 2);  
     }
     return array;
 }
